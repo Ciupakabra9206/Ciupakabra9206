@@ -2,7 +2,7 @@
 - 👀 I’m interested in IT, new technologies, history and sport, especially Spanish football
 - 🌱 I’m currently learning TypeScript and React
 - 💞️ I’m looking to collaborate on company that will give me a chance to develop and work as a junior frontend developer.
-- 📫 How to reach me email: prorokpawel92@gmail.com, twitter: https://twitter.com/Pawe66071450
+- 📫 How to reach me email: prorokpawel92@gmail.com, twitter: https://twitter.com/prorok_pawel
 
 <!---
 Ciupakabra9206/Ciupakabra9206 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
